@@ -4,6 +4,7 @@ public class LoginPage {
 	
 	public static void main (String a[]) {
 		System.out.println("this is my Login Page");
+		System.out.println("We're logging you out due to inactivity");
 	}
 
 }
